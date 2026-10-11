@@ -2037,7 +2037,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BC549"
+		(property "Value" "2N3904"
 			(at 163.83 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2146,7 +2146,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "1K"
 			(at 146.05 67.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2227,7 +2227,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "208uH"
 			(at 191.77 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2867,7 +2867,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "8nF"
 			(at 180.34 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
